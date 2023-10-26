@@ -1,4 +1,4 @@
-\centering{# Project-Portfolio}
+# Project-Portfolio
 
 ## Projects done in my course for various modules - Explanations for each project can be found in the files
 
