@@ -1,7 +1,10 @@
-# Project-Portfolio
-Projects done in my course for various modules - Explanations for each project can be found in the files
+\begin{center}
+\section{# Project-Portfolio}
+\end{center}
 
-Legend for different modules:
+## Projects done in my course for various modules - Explanations for each project can be found in the files
+
+## Legend for different modules:
 - AM2060: C# Programming with Applications
 - AM2061: Computer Modelling and Numerical Techniques
 - PY2105: Introduction to Computational Physics
